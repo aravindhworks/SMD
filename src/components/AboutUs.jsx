@@ -12,7 +12,7 @@ const AboutUs = () => {
             <strong>Pollution Control Equipments</strong>. In South India, our equipments are widely used in all engineering, automobile, chemical, cement, industries, and in public sector industries.
           </p>
           <p className="mb-4">
-            We also provide technical expertise and solutions for Paint Shop and Pollution Control Equipments problems in different industries.. We have demonstrated expertise in producing globally acclaimed products. Our services also include repair and maintenance services.
+            We also provide technical expertise and solutions for Paint Shop and Pollution Control Equipments problems in different industries. We have demonstrated expertise in producing globally acclaimed products. Our services also include repair and maintenance services.
           </p>
           <button className="mt-6 px-6 py-2 bg-blue-900 text-white rounded-lg hover:bg-blue-700 transition-colors duration-300">
             Read More

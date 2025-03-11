@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "name": "Batch Type Paint Booth",
+    "slug": "batch-type-paint-booth",
+    "description": "Economical and recommended for low volume production. Ideal for job coaters.",
+    "image": "/images/paintbooth/batchedtype.png",
+    "features": [
+      "Cross-Flow Type",
+      "Single Phase",
+      "Electric Heating Mode"
+    ],
+    "details": {
+      "Air-Flow Direction": "Cross-Flow Type",
+      "Operating Frequency": "50 Hz",
+      "Phase": "Single",
+      "Heating Mode": "Electric"
+    },
+    "bigDescription": "We Offer’s Batch Type Paint Booth is economical and is recommended for low volume production. Normally job coaters opt for it as investment is low and the size of the product that is to be coated is uncertain. The plant includes a Spray Booth, Manual Guns and Handling System like Trolley or Manual Conveyor. Oven is having doors for entry and exit and it is box type. Liquid and dry Painting Booths has been designed for small batch type jobs. Wherein overspray paint particles are directed through Duct. These are offered in different types for various applications. It is used for painting industrial components of 4 x 5 feet area. These facilitate arresting of over sprayed paint particles with the help of side water curtain and paint arrest filters."
+  },
+  {
+    "id": 2,
+    "name": "Wet Type Painting Booth",
+    "slug": "wet-type-painting-booth",
+    "description": "Designed for high-quality painting with water filtration.",
+    "image": "/images/wet-type-painting-booth.jpg",
+    "features": [
+      "Cross-Flow Type",
+      "Water Mixted Filter",
+      "1 hp to 50 hp Blower"
+    ],
+    "details": {
+      "Air-Flow Direction": "Cross-Flow Type",
+      "Air Flow Pattern": "Cross-Flow Type",
+      "Air Velocity": "0.5 to 1.5 M/s",
+      "Blower Hp": "1 hp to 50 hp",
+      "Duct Diameter Millimetre": "400 x 400 IN MM",
+      "Filter": "Water Mixted",
+      "Flow Rate": "10 m/s Duct Velocity",
+      "Max Temperature Degree Celsius": "100 Degree Celsius"
+    },
+    "bigDescription": "We are engaged in Design, Manufacturing and exporting, trading and importing exclusive range of Painting Booths, Paint Shop Plant, Powder Coating Plant and Pollution control Equipments in South India our equipments are wide used in all engineering, automobile, chemical, cement, industries and in public sector industries. We also provide technical expertise and solutions for Paint Shop and Pollution control Equipments problems in different industries. We have demonstrated expertise in producing globally acclaimed products. Our services also include repair and maintenance services. We use high quality of raw material for our projects. We deal in brand like Air Curtain and Mid Link."
+  },
+  {
+    "id": 3,
+    "name": "Water Curtain Painting Booth",
+    "slug": "water-curtain-painting-booth",
+    "description": "Uses water as a filtration medium to remove paint particles.",
+    "image": "/images/water-curtain-painting-booth.jpg",
+    "features": [
+      "Stainless Steel Construction",
+      "Electric Power Source",
+      "Powder Coated Finish"
+    ],
+    "details": {
+      "Material to be painted": "MS",
+      "Power Source": "Electric",
+      "Surface Finish": "Powder Coated",
+      "Voltage": "220 V"
+    },
+    "bigDescription": "We offer Wet Painting Booth to our clients. The painting booth comprises of a chamber with Stainless Steel and galvanized Iron sheet panel construction baffle chamber is provided on the rear side of booth. This retains the paint-water mixture from the air stream to exhaust clean air. There is a tank above the floor level, in which water is filled. Contaminated air pass into the water and the mixture is drawn into the baffle chamber where 3 rows of baffles are placed. Doors are provided to the baffle chamber to facilitate cleaning periodically. Powerful blower mounted on the top of chamber provides draft. Blower is designed to provide suitable exhaust capacity. The impeller is dynamically balanced. The exhaust from the blower is passed through a duct."
+  },
+  {
+    "id": 4,
+    "name": "Dry Type Painting Booth",
+    "slug": "dry-type-painting-booth",
+    "description": "Efficient and low-maintenance painting booth for dry applications.",
+    "image": "/images/dry-type-painting-booth.jpg",
+    "features": [
+      "Oil Based Paint",
+      "High Gloss Finish",
+      "Metal Surface Application"
+    ],
+    "details": {
+      "Surface Of Application": "Metal",
+      "Paint Base Type": "Oil Based Paint",
+      "Provide Home Painting": "No",
+      "Finish": "High Gloss"
+    },
+    "bigDescription": "We are specialized in offering our clients a wide range of Dry Type Paint Booth. Which include Bench Spray Paint Booths, Side Draft Paint Booths and Down Draft Paint Booths. Highest efficiency in a Dry Type Painting Booth is always attained when the capacity, size and other specifications are most suited to the kind of work to be performed. The following factors are important while selecting the most appropriate booth for a specific coating component. Size of the article to be coated. Rate of production (i.e. Paint Consumption). Product handling method."
+  },
+  {
+    "id": 5,
+    "name": "Dry Type Painting Booth - Front Open",
+    "slug": "dry-type-painting-booth-front-open",
+    "description": "Recommended when paint consumption is less and water is scarce.",
+    "image": "/images/dry-type-painting-booth-front-open.jpg",
+    "features": [
+      "Simple and low power consumption",
+      "Paint arresting paper filters",
+      "Easy to maintain and dispose"
+    ],
+    "details": {
+      "Coating": "Primary / Secondary / Final Coats",
+      "Air-Flow Direction": "Cross-Flow Type",
+      "Air Capacity M Cube Hr": "10000",
+      "Booth Size": "As per Customer Requirement - Customized"
+    },
+    "bigDescription": "A dry type paint booth is recommended when paint consumption is less and water is scarce. They are recognised for their simplicity and low power consumption. The dry type paint booth is provided with paint arresting paper filters which are easy to maintain and dispose. The materials of construction of MS. GI AND SS Sheets and structural sq.tube, chanells, angls etc.. We put forward a broad range of Dry Type Painting Booths that are manufactured in adherence with the set industry standards using advanced technology and optimum quality raw material. As the name intends, offered booths are used for painting applications. In tune with industry quality standard, we provide these booths in various sizes and specifications, as per the requirement of our clients. Our quality controllers perform a series of test on various parameters, in order to ensure the quality of these booths."
+  },
+  {
+    "id": 6,
+    "name": "Manual Painting Booth",
+    "slug": "manual-painting-booth",
+    "description": "Designed for maximum efficiency and cost-effectiveness.",
+    "image": "/images/manual-painting-booth.jpg",
+    "features": [
+      "Manual Automation Grade",
+      "Steel Material to be painted",
+      "Cross-Flow Type Air-Flow Direction"
+    ],
+    "details": {
+      "Automation Grade": "Manual",
+      "Material to be painted": "Steel",
+      "Air-Flow Direction": "Cross-Flow Type",
+      "Phase": "Single"
+    },
+    "bigDescription": "We offer Manual Painting Booths designed for maximum efficiency and cost-effectiveness. These booths create a controlled environment where operators can work comfortably and safely while achieving high-quality painting results. The booth is engineered to maintain a steady velocity of clean air at the operator’s breathing level, ensuring that all overspray paint is effectively captured and directed into an air filter or water tank. By keeping the air free from solvents and paint particles, the Manual Painting Booth enhances worker safety, reduces health risks, and allows operators to work continuously for extended periods without discomfort. This not only increases productivity but also ensures a smoother, more professional finish on painted components. Our booth is designed to meet industrial standards, providing a reliable and effective solution for various painting applications."
+  },
+  {
+    "id": 7,
+    "name": "Cross Draft Paint Booth",
+    "slug": "cross-draft-paint-booth",
+    "description": "Efficient and economical paint booth for automotive and truck industry.",
+    "image": "/images/cross-draft-paint-booth.jpg",
+    "features": [
+      "Manual Automation Grade",
+      "FRP Material",
+      "Cross-Flow Type Air-Flow Direction"
+    ],
+    "details": {
+      "Automation Grade": "Manual",
+      "Material": "FRP",
+      "Air-Flow Direction": "Cross-Flow Type",
+      "Phase": "Single",
+      "Material to be painted": "Steel",
+      "Heating Mode": "Electric"
+    },
+    "bigDescription": "We offer’s Cross-Draft Paint Booth are efficient and economical. They draw air through the Filtered Paint Booth Door and Side panels and the air goes through the booth-work-area horizontally to the Exhaust Filters in back of the Spray-Booth and through the Exhaust Fan and Duct line to the atmosphere. Ours cross draft paint booth flows air directly across the painting component or the object being painted. Cross drafts are the most popular paint booth found in the automotive and truck industry since they are the most economic for painting in their facility. The incoming air is drawn directly through the main doors or through roof filtered columns in the front corners of the paint booth workspace. The exhaust is achieved through the back wall or another set of columns in the rear."
+  },
+  {
+    "id": 8,
+    "name": "Water Screen Painting Booth",
+    "slug": "water-screen-painting-booth",
+    "description": "Uses water as a filtration medium to remove paint particles.",
+    "image": "/images/water-screen-painting-booth.jpg",
+    "features": [
+      "Semi-Automatic Automation Grade",
+      "SS Material",
+      "Cross-Flow Type Air-Flow Direction"
+    ],
+    "details": {
+      "Voltage": "210V",
+      "Material": "SS",
+      "Automation Grade": "Semi-Automatic",
+      "Material to be painted": "Steel",
+      "Air-Flow Direction": "Cross-Flow Type",
+      "Heating Mode": "Electric"
+    },
+    "bigDescription": "The Water Screen Painting Booth provides an extremely efficient means of removing paint particles from the exhausted air by using water as a filtration media, We have designed the Water Screen Painting Booth for many finishing applications. We also offer's pump as well versions in open type model, enclosed type model and conveyorised models. Standard Water Screen Painting Booth is utilized for high volume paint usage, medium or large sized components and batch processes. Water screen Wet type paint booth contains special features like water tank or over spray paint collection disposal tank, specially designed eliminators (baffles), saw tooth plates, washing chamber and high pressure exhaust blower. This type of painting booth is more popular where the paint consumption is more and heavy paint consumption, high production and / for any component."
+  },
+  {
+    "id": 9,
+    "name": "Liquid Painting Booth",
+    "slug": "liquid-painting-booth",
+    "description": "Designed for pollution-free environments with clean airflow.",
+    "image": "/images/liquid-painting-booth.jpg",
+    "features": [
+      "Single Phase",
+      "Aluminum Material to be painted",
+      "Cross-Flow Type Air-Flow Direction"
+    ],
+    "details": {
+      "Frequency": "50 Hz",
+      "Voltage": "210V",
+      "Phase": "Single",
+      "Material to be painted": "Aluminum",
+      "Air-Flow Direction": "Cross-Flow Type",
+      "Heating Mode": "Electric"
+    },
+    "bigDescription": "We Offer’s Liquid Painting Booth to accomplish the pollution-less environment. Designed and developed very efficient and effective liquid spray booths, which offer adequate flow of clean air. The standard designs range from an economical model, to an excellent performer in quality painting. Liquid paint Booth with disposable filters is an economical choice for low volume Spray Painting operations. Well designed filtration/ separator system offers highest efficiency of paint collection."
+  },
+  {
+    "id": 10,
+    "name": "Paint Mixing Booth",
+    "slug": "paint-mixing-booth",
+    "description": "Provides a safe, controlled environment for paint mixing.",
+    "image": "/images/paint-mixing-booth.jpg",
+    "features": [
+      "Durable construction",
+      "Optimal ventilation",
+      "Lighting fixture for visibility"
+    ],
+    "details": {
+      "Usage/Application": "Painting Mixing",
+      "Booth Size": "As per Customer Required"
+    },
+    "bigDescription": "We Offer’s Paint Mixing Booth provide a controlled area for safely mixing paint. Wall panels are fabricated from 18-gauge with painted or unpainted galvanized sheet steel, and are pre-punched and companion flanged for easy nut-and-bolt, on-site assembly. Providing a safe and controlled environment for mixing paint was our chief objective when designing our paint mixing booth. Built with durable construction that maximizes airflow distribution, your employees are protected from harmful vapors and toxins. Airflow is directed via the filtered air intake and exits through the exhaust stack. Air moves in a downward direction in a continuous flow providing optimal ventilation for personnel. Paint mixing rooms also feature a lighting fixture for maximum visibility and efficiency."
+  },
+  {
+    "id": 11,
+    "name": "Industrial Painting Booth",
+    "slug": "industrial-painting-booth",
+    "description": "Designed for precise and efficient painting in industrial applications.",
+    "image": "/images/industrial-painting-booth.jpg",
+    "features": [
+      "Automatic Automation Grade",
+      "Steel Material to be painted",
+      "Cross-Flow Type Air-Flow Direction"
+    ],
+    "details": {
+      "External Size": "15100*5160*5660 mm",
+      "Internal Size": "15000*5000*5000 mm",
+      "Automation Grade": "Automatic",
+      "Material to be painted": "Steel",
+      "Air-Flow Direction": "Cross-Flow Type",
+      "Material": "SS"
+    },
+    "bigDescription": "We are proudly recognized as one of the leading entities in the industry, offering a comprehensive range of Industrial Painting Booths designed to meet diverse painting and coating requirements. Our painting booths are meticulously engineered using advanced scientific principles and cutting-edge technology to deliver superior performance, efficiency, and reliability. Manufactured with high-quality materials and state-of-the-art equipment, these booths provide an optimal environment for precise and uniform painting. They are equipped with modern ventilation systems to ensure proper airflow, reduce overspray, and maintain a clean workspace. Our Industrial Painting Booths are tailored to industry standards, making them an ideal choice for businesses seeking enhanced productivity, improved finish quality, and a safer working atmosphere. Whether for small-scale operations or large industrial applications, our booths offer the perfect balance of innovation, durability, and cost-effectiveness."
+  },
+  {
+    "id": 12,
+    "name": "Large Painting Booth",
+    "slug": "large-painting-booth",
+    "description": "Recommended for painting heavy parts and large components.",
+    "image": "/images/large-painting-booth.jpg",
+    "features": [
+      "Crossflow, semi-downdraft, side-downdraft, and downdraft configurations",
+      "Ideal for automotive, aerospace, and industrial sectors"
+    ],
+    "details": {
+      "Usage": "Painting of heavy parts and large components like wagons, chassis of vehicles, trailers, etc."
+    },
+    "bigDescription": "SMD – Paint booths are controlled environments for paint application, designed to contain hazardous vapors and provide a safer, healthier environment for painters. Understanding the components of paint booth design and what purpose they serve is key to maximizing your spray booth’s performance. SMD - Different type of paint booth These configurations include crossflow, semi-downdraft, side-downdraft, and downdraft. A crossflow booth is one that is typically designed such that the air moving through the booth travels across the area from one end (or side) of the booth to the other. SMD Large Paint Booths are recommended for painting of heavy parts and large components, like wagons, chassis of vehicles, trailers, etc. In a LARGE PAINTING BOOTH In which Air flows from top to bottom or in a Cross Flow Paint Both Air Draft is from one top corner to other end of the Paint Booth. Large type paint booth used in auto mobile sector, aerospace, industrial sector like railway coach, bus body, ashoke leyland, tipper body, heavy structuralx column, wind mill etc."
+  },
+  {
+    "id": 13,
+    "name": "Industrial Paint Booth Filters",
+    "slug": "industrial-paint-booth-filters",
+    "description": "High-efficiency filters for industrial painting booths.",
+    "image": "/images/industrial-paint-booth-filters.jpg",
+    "features": [
+      "Easy to Install and Remove",
+      "Reduced Blower Power Consumption",
+      "Low Maintenance Cost"
+    ],
+    "details": {
+      "Filter Types": [
+        "Paper Paint Booth Filter,",
+        "Cardboard Paper Filter,",
+        "Andrea Paper Filter,",
+        "Paint Booth Paper Filter,",
+        "Paint Booth Filter,",
+        "Spray Booth Paper Filter,",
+        "Paint Arrest Filter,",
+        "Paint Arresting Filter,",
+        "Paint Shop Filter,",
+        "Paint Booth Roof Filter,",
+        "Paint Booth Door Filter,",
+        "Paint Booth Ceiling Filters,",
+        "Corrugated Filters"
+      ]
+    },
+    "bigDescription": "We Manufacture and Supply Paper Paint Booth Filter is a new environmental product, also called organ type painting filter for dry type painting booths, it is made of environmental paper, special spire air flow design, is able to absorb the tiny particles efficiently, filtration efficiency is almost 89%, it can hold at least 10kg of oil dust/sqm. It is easy to change and the painting process is environmental."
+  }
+]
